@@ -1,0 +1,101 @@
+restaurant_id,restaurant_name,city,opening_hours
+1,"Bell, Reynolds and Anderson",Hyderabad,10:00 AM - 10:00 PM
+2,"Greene, Davis and Cruz",Hyderabad,10:00 AM - 10:00 PM
+3,"Mcclain, Diaz and Cantrell",Mumbai,10:00 AM - 10:00 PM
+4,Lee-Horton,Bangalore,10:00 AM - 10:00 PM
+5,Fuentes and Sons,Chennai,10:00 AM - 10:00 PM
+6,"Huff, Benton and Burns",Hyderabad,10:00 AM - 10:00 PM
+7,Gray Ltd,Hyderabad,10:00 AM - 10:00 PM
+8,Carr-Garcia,Bangalore,10:00 AM - 10:00 PM
+9,Francis LLC,Hyderabad,10:00 AM - 10:00 PM
+10,"Taylor, Baird and Garner",Bangalore,10:00 AM - 10:00 PM
+11,Snyder-Gallagher,Chennai,10:00 AM - 10:00 PM
+12,Johnson-Hoffman,Delhi,10:00 AM - 10:00 PM
+13,"Martin, Fox and Holt",Chennai,10:00 AM - 10:00 PM
+14,"Luna, Martinez and Reynolds",Delhi,10:00 AM - 10:00 PM
+15,"Fuller, Bowen and Martin",Bangalore,10:00 AM - 10:00 PM
+16,"Hall, Bradshaw and Mathis",Delhi,10:00 AM - 10:00 PM
+17,Torres-Ewing,Mumbai,10:00 AM - 10:00 PM
+18,Chen-Zuniga,Chennai,10:00 AM - 10:00 PM
+19,Meyer PLC,Bangalore,10:00 AM - 10:00 PM
+20,"Dennis, Reynolds and Hall",Chennai,10:00 AM - 10:00 PM
+21,"Cruz, Hamilton and Hunter",Chennai,10:00 AM - 10:00 PM
+22,Johnson-Johnson,Delhi,10:00 AM - 10:00 PM
+23,"Smith, Jones and Martinez",Bangalore,10:00 AM - 10:00 PM
+24,Walter-Thomas,Mumbai,10:00 AM - 10:00 PM
+25,Maxwell-Davis,Mumbai,10:00 AM - 10:00 PM
+26,"Sanders, Ray and Sims",Bangalore,10:00 AM - 10:00 PM
+27,Andrews-Lamb,Hyderabad,10:00 AM - 10:00 PM
+28,Blankenship-Anderson,Chennai,10:00 AM - 10:00 PM
+29,Christian-Jordan,Mumbai,10:00 AM - 10:00 PM
+30,Cruz Ltd,Bangalore,10:00 AM - 10:00 PM
+31,Brown Ltd,Hyderabad,10:00 AM - 10:00 PM
+32,"Riley, Nelson and Frank",Bangalore,10:00 AM - 10:00 PM
+33,Castillo-Whitehead,Chennai,10:00 AM - 10:00 PM
+34,"Walker, Fowler and Webb",Delhi,10:00 AM - 10:00 PM
+35,Carlson-Robinson,Chennai,10:00 AM - 10:00 PM
+36,"Hall, Guerrero and Ellis",Hyderabad,10:00 AM - 10:00 PM
+37,Mitchell LLC,Hyderabad,10:00 AM - 10:00 PM
+38,"Roth, Calderon and Hicks",Chennai,10:00 AM - 10:00 PM
+39,Noble-Johnston,Bangalore,10:00 AM - 10:00 PM
+40,"Oliver, Guerrero and Thomas",Mumbai,10:00 AM - 10:00 PM
+41,Martinez-Green,Chennai,10:00 AM - 10:00 PM
+42,"Hunt, Cook and Mann",Mumbai,10:00 AM - 10:00 PM
+43,Hart LLC,Mumbai,10:00 AM - 10:00 PM
+44,Ward LLC,Hyderabad,10:00 AM - 10:00 PM
+45,"Price, Cruz and Williams",Mumbai,10:00 AM - 10:00 PM
+46,Nichols Group,Chennai,10:00 AM - 10:00 PM
+47,Hunt and Sons,Hyderabad,10:00 AM - 10:00 PM
+48,Smith-Mccullough,Bangalore,10:00 AM - 10:00 PM
+49,Davis-Perez,Delhi,10:00 AM - 10:00 PM
+50,Ellis-Wood,Bangalore,10:00 AM - 10:00 PM
+51,"Lewis, Burgess and Johnson",Mumbai,10:00 AM - 10:00 PM
+52,Harrison-Smith,Delhi,10:00 AM - 10:00 PM
+53,Richardson-Mullen,Chennai,10:00 AM - 10:00 PM
+54,"Wright, Juarez and Peters",Delhi,10:00 AM - 10:00 PM
+55,"Farmer, Tucker and Ingram",Delhi,10:00 AM - 10:00 PM
+56,Turner Ltd,Delhi,10:00 AM - 10:00 PM
+57,Yang-Richardson,Chennai,10:00 AM - 10:00 PM
+58,"Moore, Crawford and Beasley",Hyderabad,10:00 AM - 10:00 PM
+59,Adams-Williams,Mumbai,10:00 AM - 10:00 PM
+60,"Eaton, Patterson and White",Mumbai,10:00 AM - 10:00 PM
+61,"Zuniga, Coleman and Ramirez",Bangalore,10:00 AM - 10:00 PM
+62,"Nelson, Rice and Brown",Chennai,10:00 AM - 10:00 PM
+63,Good-Mccarthy,Hyderabad,10:00 AM - 10:00 PM
+64,Lopez LLC,Mumbai,10:00 AM - 10:00 PM
+65,Pearson-Rose,Bangalore,10:00 AM - 10:00 PM
+66,"Jenkins, Bradley and Harper",Chennai,10:00 AM - 10:00 PM
+67,Schroeder-Rodriguez,Bangalore,10:00 AM - 10:00 PM
+68,Bentley Inc,Mumbai,10:00 AM - 10:00 PM
+69,Anderson-Barrera,Chennai,10:00 AM - 10:00 PM
+70,Rodriguez-Brown,Bangalore,10:00 AM - 10:00 PM
+71,Valdez LLC,Chennai,10:00 AM - 10:00 PM
+72,"Brown, Huffman and Watkins",Delhi,10:00 AM - 10:00 PM
+73,"Morales, Young and Flores",Chennai,10:00 AM - 10:00 PM
+74,"Hatfield, Ferrell and Malone",Chennai,10:00 AM - 10:00 PM
+75,Johnson Inc,Chennai,10:00 AM - 10:00 PM
+76,Kim-Warren,Bangalore,10:00 AM - 10:00 PM
+77,Gibson-Mcdaniel,Hyderabad,10:00 AM - 10:00 PM
+78,Pena-Mcdonald,Mumbai,10:00 AM - 10:00 PM
+79,"Lewis, Serrano and Price",Chennai,10:00 AM - 10:00 PM
+80,Mcdaniel-James,Hyderabad,10:00 AM - 10:00 PM
+81,Scott Inc,Bangalore,10:00 AM - 10:00 PM
+82,Robertson-Nelson,Chennai,10:00 AM - 10:00 PM
+83,Clark LLC,Delhi,10:00 AM - 10:00 PM
+84,Coleman-Richards,Bangalore,10:00 AM - 10:00 PM
+85,Powers-Phillips,Delhi,10:00 AM - 10:00 PM
+86,"Dixon, Diaz and Fernandez",Delhi,10:00 AM - 10:00 PM
+87,"Robinson, Morgan and Johnson",Delhi,10:00 AM - 10:00 PM
+88,Wilson-Williams,Mumbai,10:00 AM - 10:00 PM
+89,"Henry, Holder and Scott",Chennai,10:00 AM - 10:00 PM
+90,Parker Inc,Bangalore,10:00 AM - 10:00 PM
+91,"Norris, Carroll and Gray",Hyderabad,10:00 AM - 10:00 PM
+92,"Baird, Peters and Rodriguez",Mumbai,10:00 AM - 10:00 PM
+93,"White, Miller and Hawkins",Mumbai,10:00 AM - 10:00 PM
+94,Crawford-Thomas,Delhi,10:00 AM - 10:00 PM
+95,Cain-Brewer,Delhi,10:00 AM - 10:00 PM
+96,Mitchell Inc,Mumbai,10:00 AM - 10:00 PM
+97,"Moon, Mullins and Rodriguez",Mumbai,10:00 AM - 10:00 PM
+98,Jones PLC,Chennai,10:00 AM - 10:00 PM
+99,Price-Cooper,Hyderabad,10:00 AM - 10:00 PM
+100,Hutchinson Group,Chennai,10:00 AM - 10:00 PM
