@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-Project Title: Strays - Data Analysis of a Food Delivery App
-Database Name: strays_db
-Technology: PostgreSQL
+- Project Title: Strays - Data Analysis of a Food Delivery App
+- Database Name: strays_db
+- Technology: PostgreSQL
 
 This project simulates and analyzes a food delivery app similar to Zomato, aimed at understanding customer behavior, delivery efficiency, rider performance, and restaurant trends.
 
